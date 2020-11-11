@@ -1,6 +1,11 @@
 # Contact Tracing Scanner for macOS
 
-![Contact Tracing Scanner for macOS](demo.png)
+_Swift, Interface Builder and CoreBluetooth_
+
+Release: [v1](https://github.com/eddmann/contact-tracing-scanner-macos/releases/tag/1.0)<br>
+Article: [https://eddmann.com/posts/creating-a-contact-tracing-scanner-using-swift-for-macos/](https://eddmann.com/posts/creating-a-contact-tracing-scanner-using-swift-for-macos/)
+
+![Contact Tracing Scanner](contact-tracing-scanner.png)
 
 ## Inspiration
 
